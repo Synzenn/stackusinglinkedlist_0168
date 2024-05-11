@@ -38,5 +38,11 @@ public:
 	}
 
 
+	void peek() {
+		
+	}
+
+	
+
 };
 
